@@ -111,7 +111,6 @@ public class MoveForward : MonoBehaviour
 ```
 
 ## Output:
-![alt text](<../Assets/Screenshot 2025-09-13 083559.png>)
+![alt text](image.png)
 
 ## Result:
-Animal feeding game-Phase-1 using unity is developed successfully.
